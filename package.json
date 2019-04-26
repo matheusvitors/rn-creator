@@ -1,0 +1,19 @@
+{
+  "name": "rn-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "rn-creator": "./bin/index.js"
+  },
+  "dependencies": {
+    "blob": "0.0.5",
+    "file-saver": "^2.0.1"
+  }
+}
